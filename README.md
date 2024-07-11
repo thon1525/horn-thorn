@@ -11,8 +11,8 @@
 ###
 <p align="left">
   
-  - **Royal University of Phnom Penh:** Bachelor Degree of Science in Computer Science
-Expected Graduation: [2027]</p>
+  - **BELTEI International University:** Bachelor Degree of BELTEI International University
+Expected Graduation: [2026]</p>
 
 <p align="left">
 
