@@ -11,7 +11,7 @@
 ###
 <p align="left">
   
-  - **BELTEI International University:** Bachelor Degree of BELTEI International University
+  - **BELTEI International University:** 
 Expected Graduation: [2026]</p>
 
 <p align="left">
