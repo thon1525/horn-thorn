@@ -24,7 +24,7 @@ Expected Completion: [6, 2024]</p>
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://www.youtube.com/@thornhourn7595/videos" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
@@ -40,10 +40,11 @@ Expected Completion: [6, 2024]</p>
 
 <p align="left">
   
-- **Programming Languages**: JavaScript,Typescript, Node.js , C++
+- **Programming Languages**: JavaScript,Typescript, Node.js , C++, java,c#
 Frameworks & Libraries: Express.js, React.js (for MERN stack)
-Databases: MongoDB, SQL Server
+Databases: MongoDB, SQL Server, Oracle
 Architectural style Desgign: Microservice && Monolithic
+Design Patterns: OOP ,  
 Tools & Platforms: Git, Docker, RESTful APIs, Postman, swagger, jes ....
 Other : Agile methodologies
 </p>
