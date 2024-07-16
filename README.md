@@ -44,7 +44,7 @@ Expected Completion: [6, 2024]</p>
   
 - **Programming Languages**: JavaScript,Typescript, Node.js , C++, java,c#
 Frameworks & Libraries: Express.js, React.js (for MERN stack)
-Databases: MongoDB, SQL Server, Oracle
+Databases: MongoDB, SQL Server, Oracle, mysql
 Architectural style Desgign: Microservice && Monolithic
 Design Patterns: OOP ,  
 Tools & Platforms: Git, Docker, RESTful APIs, Postman, swagger, jes ....
