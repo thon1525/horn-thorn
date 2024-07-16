@@ -12,7 +12,7 @@
 <p align="left">
   
   - **BELTEI International University:** 
-Expected Graduation: [2026]</p>
+Expected Graduation: [2025]</p>
 
 <p align="left">
 
